@@ -1,0 +1,20 @@
+Java Program performs I/O operations through stream.
+Stream is a sequence of bytes or characters that travel from source to
+destination over a conmmunication path.
+
+Collection of class :- package 
+
+2 ways to store Data in File :-
+1) Binary - 8buts Byte Stream
+	-InputStream
+	-OutputStream
+2) Text - 16bits	character stream 	
+	-Reader
+	-writer
+
+File Class :-	
+	To know the details of the particular file 
+	constructures
+		file(String path)
+		file(String path, String fileName)
+		file(file Object , String fileName)
